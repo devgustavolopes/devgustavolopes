@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="https://i.imgur.com/7g0Fj8W.png" alt="Banner Gustavo Ferreira Developer">
+  <img src="![Uploading banner.png.png…]()g" alt="Banner Gustavo Ferreira Developer">
 </p>
+
+
+![Uploading banner.png.png…]()
 
 Olá! 👋 Eu sou o Gustavo Ferreira.
 Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, apaixonado por encontrar soluções práticas através da tecnologia. Meu foco principal é o desenvolvimento Back-end e Web.
