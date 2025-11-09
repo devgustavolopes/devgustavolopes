@@ -1,4 +1,4 @@
-![Uploading banner.png.png…]()
+http://googleusercontent.com/image_generation_content/1
 
 Olá! 👋 Eu sou o Gustavo Ferreira.
 Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, apaixonado por encontrar soluções práticas através da tecnologia. Meu foco principal é o desenvolvimento Back-end e Web.
