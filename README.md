@@ -6,7 +6,8 @@
 Olá! 👋 Eu sou o Gustavo Ferreira.
 Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, apaixonado por encontrar soluções práticas através da tecnologia. Meu foco principal é o desenvolvimento Back-end e Web.
 
-📫 Conecte-se comigo: www.linkedin.com/in/gustavo-ferreira-586583388
+📫 Conecte-se comigo: <a href="URL_DO_SEU_LINKEDIN_AQUI" target="_blank">
+  <img src="www.linkedin.com/in/gustavo-ferreira-586583388" alt="Meu Perfil no LinkedIn"></a> 
 
 
 
