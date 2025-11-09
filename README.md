@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/7g0Fj8W.png" alt="Banner Gustavo Ferreira Developer">
+  <img src="[https://i.imgur.com/7g0Fj8W.png](https://i.imgur.com/7g0Fj8W.png)" alt="Banner Gustavo Ferreira Developer">
 </p>
 
 Olá! 👋 Eu sou o Gustavo Ferreira.
