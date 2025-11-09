@@ -1,4 +1,5 @@
-![Imagem do WhatsApp de 2025-11-08 à(s) 20 32 34_148bfc1c](https://github.com/user-attachments/assets/89698b5e-6587-46fb-9611-942f0250d288)
+![Uploading Imagem do WhatsApp de 2025-11-08 à(s) 20.32.34_a81e93ee.jpg…]()
+
 
 
 Olá! 👋 Eu sou o Gustavo Ferreira.
