@@ -1,5 +1,4 @@
-<img src="![Uploading image.png…]()
-" ...>
+<img src="![Uploading image.png…]()" ...>
 
 Olá! 👋 Eu sou o Gustavo Ferreira.
 Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, apaixonado por encontrar soluções práticas através da tecnologia. Meu foco principal é o desenvolvimento Back-end e Web.
