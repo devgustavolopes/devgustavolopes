@@ -1,6 +1,7 @@
-![Uploading Imagem do WhatsApp de 2025-11-08 à(s) 20.32.34_a81e93ee.jpg…]()
 
 
+
+![Uploading Imagem do WhatsApp de 2025-11-08 à(s) 20.32.34_26318fbb.jpg…]()
 
 Olá! 👋 Eu sou o Gustavo Ferreira.
 Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, apaixonado por encontrar soluções práticas através da tecnologia. Meu foco principal é o desenvolvimento Back-end e Web.
