@@ -1,6 +1,6 @@
 
+<img width="1024" height="329" alt="image" src="https://github.com/user-attachments/assets/563a7142-4b48-4335-8f07-a4228a02db0d" />
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/0494e64a-d6af-4f4e-8668-b752bbd83ab1" />
 
 
 Olá! 👋 Eu sou o Gustavo Ferreira.
