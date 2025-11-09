@@ -1,13 +1,12 @@
-
-
-
-![Uploading image.png…]()
-
+<p align="center">
+  <img src="![Imagem do WhatsApp de 2025-11-08 à(s) 21 02 15_661f463c](https://github.com/user-attachments/assets/24774e68-db73-4a44-b810-ade0d6baa50e)." alt="Banner Gustavo Ferreira Developer">
+</p>
 
 
 Olá! 👋 Eu sou o Gustavo Ferreira.
 Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, apaixonado por encontrar soluções práticas através da tecnologia. Meu foco principal é o desenvolvimento Back-end e Web.
-📫 Conecte-se comigo: LinkedIn
+📫 Conecte-se comigo: www.linkedin.com/in/gustavo-ferreira-586583388
+
 
 
 ### 🛠 Minhas Ferramentas e Tecnologias
