@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="![Imagem do WhatsApp de 2025-11-08 à(s) 21 02 15_661f463c](https://github.com/user-attachments/assets/24774e68-db73-4a44-b810-ade0d6baa50e)." alt="Banner Gustavo Ferreira Developer">
-</p>
+https://lh3.googleusercontent.com/gg-dl/ABS2GSlVuX0qdHXk-5yiQ5GBQ5urRZavBtMqnHNuuP2HUkx2aTsaB6BVntgGqOFw2wdsL_ogV7fvN7T4zGNRXoPraZPJuUSDql3vXUDMwtoLCfMITDihsuC_egz3wfgC7aX8hA6oEcKpLWFpJFL7INSZxHuPNXwvUa7HnNPtOK8ESFHWyH4uJg=s1024-rj
 
 
 Olá! 👋 Eu sou o Gustavo Ferreira.
