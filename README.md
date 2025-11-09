@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=![Uploading banner.png.png…]() alt="Banner Gustavo Ferreira Developer">
+  <img src="URL_DA_SUA_IMAGEM_DE_BANNER_AQUI" alt="Banner Gustavo Ferreira Developer">
 </p>
 ![Uploading banner.png.png…]()
 
