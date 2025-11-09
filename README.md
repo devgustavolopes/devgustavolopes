@@ -1,6 +1,5 @@
 https://lh3.googleusercontent.com/gg-dl/ABS2GSlVuX0qdHXk-5yiQ5GBQ5urRZavBtMqnHNuuP2HUkx2aTsaB6BVntgGqOFw2wdsL_ogV7fvN7T4zGNRXoPraZPJuUSDql3vXUDMwtoLCfMITDihsuC_egz3wfgC7aX8hA6oEcKpLWFpJFL7INSZxHuPNXwvUa7HnNPtOK8ESFHWyH4uJg=s1024-rj
 
-
 Olá! 👋 Eu sou o Gustavo Ferreira.
 Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, apaixonado por encontrar soluções práticas através da tecnologia. Meu foco principal é o desenvolvimento Back-end e Web.
 📫 Conecte-se comigo: www.linkedin.com/in/gustavo-ferreira-586583388
