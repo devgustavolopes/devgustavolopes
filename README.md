@@ -1,7 +1,8 @@
 
 
 
-![Uploading Imagem do WhatsApp de 2025-11-08 à(s) 21.02.15_34c36f09.jpg…]()
+![Uploading image.png…]()
+
 
 
 Olá! 👋 Eu sou o Gustavo Ferreira.
