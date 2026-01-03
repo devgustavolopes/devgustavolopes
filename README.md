@@ -40,7 +40,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas, apaixonado
 
 ### 📊 Minhas Estatísticas do GitHub
 
-<p align="center">
+</p> align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=devgustavolopes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Estatísticas do GitHub">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgustavolopes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas">
